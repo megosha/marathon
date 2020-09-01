@@ -983,9 +983,15 @@ a {
 @media (max-width: 767px) {
   .cid-rZqakGdhKi .header {
     margin-top: 2.5rem;
+    text-align: center!important;
   }
   .cid-rZqakGdhKi .buttons-wrap {
     margin-top: 0;
+  }
+  .cid-rZqakGdhKi H4,
+  .cid-rZqakGdhKi UL,
+  .cid-rZqakGdhKi .btn-align {
+    text-align: center!important;
   }
 }
 .cid-rZqakGdhKi .card {
