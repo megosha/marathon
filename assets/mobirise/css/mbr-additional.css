@@ -1151,9 +1151,97 @@ a {
 .cid-s9dknUAkwo .card .wrapper .mbr-text {
   color: #06182d;
 }
+.cid-s9pABhyBX7 {
+  padding-top: 0px;
+  padding-bottom: 45px;
+  background-color: #ffffff;
+}
+.cid-s9pABhyBX7 .card-icon {
+  font-size: 56px;
+  color: #ffffff;
+  transition: color 0.3s;
+}
+.cid-s9pABhyBX7 .card-title {
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+.cid-s9pABhyBX7 .card {
+  margin: 0!important;
+  padding: 0!important;
+  border-radius: 0;
+}
+.cid-s9pABhyBX7 p {
+  font-weight: 400;
+}
+.cid-s9pABhyBX7 .link-ico {
+  font-size: 0.8rem;
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  border-radius: 100%;
+  padding: 0.5rem 0;
+  font-weight: 900;
+  padding-left: 9px;
+  padding-right: 7px;
+  transition: all 0.3s;
+}
+.cid-s9pABhyBX7 .link-ico:hover {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: gray!important;
+}
+.cid-s9pABhyBX7 .line {
+  width: 35px;
+  height: 3px;
+  display: inline-block;
+  background: #ffffff;
+  margin-bottom: 1.5rem;
+  transition: background 0.3s;
+}
+.cid-s9pABhyBX7 .bg1 {
+  background: #ff4e3c;
+}
+.cid-s9pABhyBX7 .bg2 {
+  background: #ff5e3a;
+}
+.cid-s9pABhyBX7 .bg3 {
+  background: #ff4e3c;
+}
+.cid-s9pABhyBX7 .bg4 {
+  background: #ff5e3a;
+}
+.cid-s9pABhyBX7 .card-wrapper {
+  padding: 4rem 2rem;
+  transition: background 0.3s;
+}
+.cid-s9pABhyBX7 .card-wrapper:hover .link-ico {
+  background-color: #ffffff;
+  border-color: #ffffff;
+  color: gray!important;
+}
+.cid-s9pABhyBX7 .col-lg-x {
+  -ms-flex: 0 0 20%;
+  flex: 0 0 20%;
+  max-width: 20%;
+}
+.cid-s9pABhyBX7 .card-title,
+.cid-s9pABhyBX7 .card-ico,
+.cid-s9pABhyBX7 .line-wrap {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-s9pABhyBX7 .mbr-text,
+.cid-s9pABhyBX7 .card-link {
+  text-align: center;
+  color: #ffffff;
+}
+@media (max-width: 767px) {
+  .cid-s9pABhyBX7 .row {
+    padding: 0 1rem;
+  }
+}
 .cid-s9k3IoNohK {
-  padding-top: 105px;
-  padding-bottom: 105px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   background-image: url("../../../assets/images/mbr-2-1920x1284.jpeg");
 }
 .cid-s9k3IoNohK .text-wrap {
