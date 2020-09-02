@@ -1078,6 +1078,14 @@ a {
 .cid-s9dknUAkwo .img-wrap img {
   width: 100%;
 }
+.cid-s9dknUAkwo .line {
+  width: 30%;
+}
+@media (min-width: 767px) {
+  .cid-s9dknUAkwo .line {
+    margin-left: 0;
+  }
+}
 .cid-s9dknUAkwo .card {
   border-radius: 0;
   margin: auto 0;
@@ -1332,7 +1340,7 @@ a {
 }
 .cid-s9jPJuf1Q0 .mbr-section-title,
 .cid-s9jPJuf1Q0 .line-wrap {
-  text-align: center;
+  text-align: left;
   width: 100%;
   color: #000000;
 }
